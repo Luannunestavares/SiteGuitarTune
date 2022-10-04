@@ -1,0 +1,119 @@
+body{
+    
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    font-family: Arial, Verdana, Tahoma, Sans-Serif;
+    color: #333333;
+    font-size: 12px;
+    
+  
+}
+
+header{
+    background-color: #020202;
+    background-image: url(img/conhecimento.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+ 
+
+
+figure
+{
+    width: 93%;
+    margin: auto;
+
+}
+
+nav 
+{
+    background-color: #04e3b3;
+    
+    
+}
+
+a{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    size: 50%;
+   left: 0%;
+    size: 10%;
+    display: inline-flex;
+    justify-content: space-around;
+    
+    
+}
+
+ul li{
+    display: inline-block;
+    
+}
+
+ul span{
+    font-size: 1.40rem;
+}
+
+hr 
+{
+    background-color: #04e3b3;
+}
+
+h1 
+{
+    text-align: center;
+    color:#28ff0d;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    
+}
+
+h2 
+{
+    text-align: center;
+    color:#28ff0d;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    
+}
+
+h3 
+{
+    text-align: center;
+    color:#28ff0d;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    
+}
+
+p 
+{
+    line-height: 20px;
+    text-align: justify;
+    font-size: medium;
+    margin:20px;
+    color: white;
+}
+
+
+#areaRestrita{
+    background-color: #04e3b3;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+    size: 50%;
+   left: 0%;
+    size: 10%;
+
+}
+
+#areaLogin{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+    size: 50%;
+   left: 0%;
+    size: 10%;
+}
